@@ -1,4 +1,4 @@
-const apiKey = "apikeygoogle"; 
+const apiKey = "AIzaSyCxrMsdKZnMBMFTEou17JBCtbyGwHdaBFY"; 
 const cx = "cx google"; 
 const inp = document.getElementById("inp");
 const images = document.querySelector(".images");
