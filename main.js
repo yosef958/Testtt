@@ -1,5 +1,7 @@
 const apiKey = "AIzaSyCxrMsdKZnMBMFTEou17JBCtbyGwHdaBFY"; 
-const cx = "cx google"; 
+const cx = "<script async src="https://cse.google.com/cse.js?cx=42207e870802b4030">
+</script>
+<div class="gcse-search"></div>"; 
 const inp = document.getElementById("inp");
 const images = document.querySelector(".images");
 
